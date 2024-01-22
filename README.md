@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sarvesh-adk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvesh-adk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarvesh-adk" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/instagram_1384015?related_id=1384031&origin=search" alt="sarvesh-adk" height="30" width="40" /></a>
 <a href="https://instagram.com/sarvesh.adk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarvesh.adk" height="30" width="40" /></a>
 </p>
 
