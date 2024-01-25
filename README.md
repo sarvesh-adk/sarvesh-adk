@@ -38,10 +38,3 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg" alt="figma" width="40" height="30"/> </a>
 <h3 align="left">Buy me a Coffee:</h3>
 <p><a href="https://www.buymeacoffee.com/sarvesh.adk"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" height="50" width="210" alt="sarvesh.adk" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvesh-adk&show_icons=true&locale=en&layout=compact" alt="sarvesh-adk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvesh-adk&show_icons=true&locale=en" alt="sarvesh-adk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvesh-adk&" alt="sarvesh-adk" /></p>
-
