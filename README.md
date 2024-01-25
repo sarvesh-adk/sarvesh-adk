@@ -39,7 +39,7 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sarvesh.adk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sarvesh.adk" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/sarvesh.adk"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" height="50" width="210" alt="sarvesh.adk" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvesh-adk&show_icons=true&locale=en&layout=compact" alt="sarvesh-adk" /></p>
 
