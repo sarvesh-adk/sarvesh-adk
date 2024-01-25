@@ -1,9 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh-adk&label=Profile%20views&color=2c2c2a&style=button" alt="sarvesh-adk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarvesh-adk" alt="sarvesh-adk" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - - Learning **Data Structures and Algorithm (DSA)**
 
 - - Website: [https://www.sarbeswaradhikari.com.np](https://www.sarbeswaradhikari.com.np)
