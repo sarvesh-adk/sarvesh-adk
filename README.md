@@ -1,12 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh-adk&label=Profile%20views&color=2c2c2a&style=button" alt="sarvesh-adk" /> </p>
 
-- - Learning **Data Structures and Algorithm (DSA)**
+- - Learning  **Data Structures and Algorithm (DSA)**
 
 - - Website: [https://www.sarbeswaradhikari.com.np](https://www.sarbeswaradhikari.com.np)
 
-- - Reach me at: **Sarbeswar.adk@gmail.com**
+- - Reach me at:  **Sarbeswar.adk@gmail.com**
 
-- - Resume: [https://www.sarbeswaradhikari.com.np/resume](https://www.sarbeswaradhikari.com.np/resume)
+- - Resume:  [https://www.sarbeswaradhikari.com.np/resume](https://www.sarbeswaradhikari.com.np/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
