@@ -34,7 +34,6 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg" alt="photoshop" width="40" height="30"/> </a> 
 <a href="https://www.adobe.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobepremierepro.svg" alt="premiere pro" width="40" height="30"/> </a> 
 <a href="https://www.adobe.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobelightroomcc.svg" alt="lightroom" width="40" height="30"/> </a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blender.svg" alt="blender" width="40" height="30"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg" alt="figma" width="40" height="30"/> </a>
 <h3 align="left">Buy me a Coffee:</h3>
 <p><a href="https://www.buymeacoffee.com/sarvesh.adk"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" height="50" width="210" alt="sarvesh.adk" /></a></p><br><br>
