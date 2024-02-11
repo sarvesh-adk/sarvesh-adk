@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh-adk&label=Profile%20views&color=2c2c2a&style=button" alt="sarvesh-adk" /> </p>
-
+<p>Please view in light theme</p>
 - - Learning  **Data Structures and Algorithm (DSA)**
 
 - - Website: [https://www.sarbeswaradhikari.com.np](https://www.sarbeswaradhikari.com.np)
