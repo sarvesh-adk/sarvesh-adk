@@ -3,11 +3,11 @@
 
 - - Learning  **Data Structures and Algorithm (DSA)**
 
-- - Website: [https://www.sarbeswaradhikari.com.np](https://www.sarbeswaradhikari.com.np)
+- - Website: [https://sarbeswar.tech](https://sarbeswar.tech)
 
-- - Reach me at:  **Sarbeswar.adk@gmail.com**
+- - Reach me at:  **mail@sarbeswar.tech**
 
-- - Resume:  [https://www.sarbeswaradhikari.com.np/resume](https://www.sarbeswaradhikari.com.np/resume)
+- - Resume:  [https://sarbeswar.tech/resume](https://sarbeswar.tech/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
