@@ -1,4 +1,4 @@
- Please view the page on Light Theme for a better experience 
+ **Please view the page on Light Theme for a better experience** 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh-adk&label=Profile%20views&color=2c2c2a&style=button" alt="sarvesh-adk" /> </p>
 
 - - Learning  **Data Structures and Algorithm (DSA)**
